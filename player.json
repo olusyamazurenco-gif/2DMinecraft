@@ -1,0 +1,9 @@
+{
+  "x": 100,
+  "y": 100,
+  "health": 20,
+  "inventory": {
+    "dirt": 10,
+    "stone": 5
+  }
+}
