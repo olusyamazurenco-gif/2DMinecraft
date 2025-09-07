@@ -7,8 +7,13 @@
 png текстури 
 
 
-# ссылки на интеллекта і на канали 
-пока нет
+# 🌐 Соцмережі
+
+[![YouTube](https://img.shields.io/badge/YouTube-канал-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@spoynermine)
+
+[![TikTok](https://img.shields.io/badge/TikTok-профіль-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@spoynermine)
+
+[![Telegram](https://img.shields.io/badge/Telegram-чат-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spoynrmin)
 
 
 
