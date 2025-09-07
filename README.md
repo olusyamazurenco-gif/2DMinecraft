@@ -23,3 +23,22 @@ png текстури
 [![Відкрити репозиторій](https://img.shields.io/badge/Open-Repository-blue?style=for-the-badge)](https://github.com/olusyamazurenco-gif/2DMinecraft/tree/filemenu)
 
 [![Скачати ZIP](https://img.shields.io/badge/Download-ZIP-green?style=for-the-badge)](https://github.com/olusyamazurenco-gif/2DMinecraft/archive/refs/heads/filemenu.zip)
+
+
+
+
+
+
+
+
+# 🤖 OpenAI
+
+[![YouTube](https://img.shields.io/badge/OpenAI-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/OpenAI)  
+[![Веб-версія](https://img.shields.io/badge/OpenAI-ChatGPT_Web-412991?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)  
+
+
+
+# 📲 Завантажити ChatGPT
+
+[![Android](https://img.shields.io/badge/Android-ChatGPT-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.openai.chatgpt)  
+[![iOS](https://img.shields.io/badge/iOS-ChatGPT-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/openai-chatgpt/id6448311069)
